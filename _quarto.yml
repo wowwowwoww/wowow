@@ -4,12 +4,15 @@ project:
 website:
   title: "wowow"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - game.qmd
       - about.qmd
-
+    right:
+      - icon: github
+        href: "https://github.com/wowwowwoww"
+        aria-label: R Playground
 format:
   html:
     theme: cosmo

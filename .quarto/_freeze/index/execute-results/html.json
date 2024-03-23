@@ -2,7 +2,9 @@
   "hash": "657fc784289cfbcbd2a0c313aedc6ce1",
   "result": {
     "markdown": "---\ntitle: \"wowow\"\n---\n\n\nThis is a wowow website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
